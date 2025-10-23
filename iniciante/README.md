@@ -9,7 +9,7 @@
    - **Entrada dos dados**: `[1, 2, 3, 4, 5]`
    - **Retorno esperado**: `15`
 
-2. [ ] **Encontrar o Maior Valor**: Escreva uma função que encontre o maior número em um _array_.
+2. [x] **Encontrar o Maior Valor**: Escreva uma função que encontre o maior número em um _array_.
 
    - **Entrada dos dados**: `[10, 4, 25, 8, 15]`
    - **Retorno esperado**: `25`
