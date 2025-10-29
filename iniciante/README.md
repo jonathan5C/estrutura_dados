@@ -14,7 +14,7 @@
    - **Entrada dos dados**: `[10, 4, 25, 8, 15]`
    - **Retorno esperado**: `25`
 
-3. [ ] **Inverter uma String**: Use uma pilha para inverter uma _string_.
+3. [x] **Inverter uma String**: Use uma pilha para inverter uma _string_.
 
    - **Entrada dos dados**: `“hello”`
    - **Retorno esperado**: `“olleh”`
